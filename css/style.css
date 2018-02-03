@@ -261,7 +261,8 @@ footer.second p {
 		    background-color: #6991AC;
 		    border-radius: 10px 0 10px 10px;
 		    border: 1px solid #FFF;
-		    width: 120px;
+		    width: 50%;
+		    text-align: center;
 	}
 	nav:hover ul {
 		display: block;
